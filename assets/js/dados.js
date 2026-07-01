@@ -128,5 +128,47 @@ const alunos = [
         A presença constante é importante para acompanhar os conteúdos da catequese.`,
 
         ultimaAtualizacao: "30/06/2026"
+    },
+    {
+        id: 4,
+        nome: "Ikaro Rennan",
+        turma: "Pré-Eucaristia",
+
+        responsavel: {
+            nome: "Verificar nome",
+            telefone: "(61) 00000-0000"
+        },
+
+        presencas: [
+            { data: "08/03/2026", presente: true },
+            { data: "15/03/2026", presente: false },
+            { data: "22/03/2026", presente: false },
+            { data: "29/03/2026", presente: true },
+            { data: "01/07/2026", presente: true }
+        ],
+
+        tema: {
+            titulo: "Em breve"
+            //data: "29/03/2026"
+        },
+
+        avisos: [
+            {
+                //titulo: "Em breve",
+                descricao: "Em breve."
+            }
+        ],
+
+        comportamento: [
+            "Participativo",
+            "Respeitoso"          
+        ],
+
+        observacoes: `
+        Ikaro tem potencial, mas precisa melhorar a frequência.
+
+        A presença constante é importante para acompanhar os conteúdos da catequese.`,
+
+        ultimaAtualizacao: "01/07/2026"
     }
 ];
