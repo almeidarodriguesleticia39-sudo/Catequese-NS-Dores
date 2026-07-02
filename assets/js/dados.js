@@ -140,8 +140,7 @@ const alunos = [
         ],
 
         "tema": {
-            "titulo": "Em breve.",
-            //data: "29/03/2026"
+            "titulo": "Em breve."
         },
 
         "avisos": [
@@ -445,7 +444,7 @@ const alunos = [
             { "data": "09/05/2026", "presente": true },
             { "data": "16/05/2026", "presente": true },
             { "data": "23/05/2026", "presente": true },
-            { "data": "30/05/2026", "presente": true},,
+            { "data": "30/05/2026", "presente": true},
             { "data": "06/06/2026", "presente": true },
             { "data": "13/06/2026", "presente": true },
             { "data": "20/06/2026", "presente": false},
@@ -793,16 +792,16 @@ const alunos = [
         "turma": "Pré-Eucaristia",
 
         "responsavel": {
-            //nome: "PROCURAR",
-            //telefone: "PROCURAR"
+            "nome": " ",
+            "telefone": " "
         },
 
         "presencas": [
-            { "data": "30/05/2026", presente: true },
-            { "data": "06/06/2026", presente: true },
-            { "data": "13/06/2026", presente: true },
-            { "data": "20/06/2026", presente: true },
-            { "data": "27/06/2026", presente: true }
+            { "data": "30/05/2026", "presente": true },
+            { "data": "06/06/2026", "presente": true },
+            { "data": "13/06/2026", "presente": true },
+            { "data": "20/06/2026", "presente": true },
+            { "data": "27/06/2026", "presente": true }
         ],
 
         "tema": {
@@ -834,8 +833,8 @@ const alunos = [
         "turma": "Pré-Eucaristia",
 
         "responsavel": {
-            //nome: "PROCURAR",
-            //telefone: "PROCURAR"
+            "nome": " ",
+            "telefone": " "
         },
 
         "presencas": [
