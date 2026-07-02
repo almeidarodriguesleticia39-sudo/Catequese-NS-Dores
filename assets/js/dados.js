@@ -48,9 +48,9 @@ const alunos = [
             "Convivência: 0/5"
         ],
 
-        "observacoes": "",
+        "observacoes": "Diante da baixa frequência, não foi possível avaliar aspectos como respeito e conviv~encia com o grupo. Quanto ao interesse, não demonstrou envolvimento nas atividades nos encontros em que esteve presente. Como aspecto a ser aperfeiçoado, faz-se necessária maior assiduidade e comprometimento com a catequese, ou seja, vir com mais frequência e participar dos momentos de formação. ",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
 
     {
@@ -102,7 +102,7 @@ const alunos = [
 
         "observacoes": "A catequizanda apresenta bom comportamento e respeito às catequistas e aos colegas, além de boa convivência com a turma. Participa das atividades propostas e \n demosntra interesse mediano pelos conteúdos. Como aspecto a ser aperfeiçoado, precisa melhorar a atenção durante os encontros, evitando o uso excessivo de \n tablet, ou seja, deixar o celular/tablet de lado no momento da catequese para se concentrar melhor além de atentar-se ao horário de início das aulas. Quanto \n à frequência, as 7 ausências prejudicaram um pouco o aproveitamento. Com maior assiduidade e foco, terá um rendimento ainda melhor no próximo semestre. \n Atividades que precisam ser entregues:O livro não foi entregue para avaliação das catequistas.", 
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
 
     {
@@ -154,7 +154,7 @@ const alunos = [
 
         "observacoes": "O catequizando demonstrou excelente assiduidade. Participa ativamente das atividades com atenção e interesse, mantendo uma postura sempre respeitosa com as catequistas e \n com os colegas. Possui excelente convivência com toda a turma. Como aspecto a ser aperfeiçoado,  pode investir mais na participação oral durante as partilhas, ou seja, \n se expressar um pouco mais nos momentos de diálogo e dosar melhor a conversa durante os momentos de explicação para aproveitar mais o conteúdo. \n Atividades que precisam ser entregues: Páginas 11, 29, 102 e 108.", 
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 4,
@@ -205,7 +205,7 @@ const alunos = [
 
         "observacoes": "O catequizando apresente boa frequência e demonstra respeito às catequistas e excelente convivência com a turma. Como aspecto a ser aperfeiççoado, pontualidade, ou seja, \n chegar no horário de início das aulas e evitar atrasos recorrentes, assim como o engajamento nas atividades, pois apresentou participação e interesse abaixo do esperado \n durante os encontros. Com maior atenção e envolvimento nos momentos de formação, seu aproveitamento será muito melhor no próximo semestre. \n Atividades que precisam ser entregues: O aluno não possui o livro e também não levava caderno, por isso, não foi possível avaliar a realização das atividades por meio dos materiais. \n Atividades que precisam ser entregues: 11 a 19, 23 a 29, 33 a 35, 97 a 109.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 5,
@@ -256,7 +256,7 @@ const alunos = [
 
         "observacoes": "O catequizando demonstra respeito às catequistas e a excelente convivência com toda a turma. Participa das atividades propostas e mantém interesse mediano pelos \n conteúdos. Como aspecto a ser aperfeiçoado, assiduidade, pois as faltas no semestre reduziram um pouco seu aproveitamento, além da atenção e engajamento, buscando \n participar de forma mais constante nos momentos de partilha. Com mais foco, seu rendimento será ainda melhor no próximo semestre. \n Atividades que precisam ser entregues: Páginas 25 a 28, 32, 33, 103 e 108. ",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 6,
@@ -307,7 +307,7 @@ const alunos = [
 
         "observacoes": "Devido à ausência em todos os encontros do semestre, não foi possível avaliar a participação, o respeito, o interesse, a convivência e nem a realização das \n atividades do catequizando. A frequência é um requisito essencial para o acompanhamento do processo de formação da catequese. Sugerimos à família que, caso \n deseje dar continuidade no próximo semestre, seja dada atenção especial à assiduidade, ou seja, garantir presença regular em todas as aulas.\n Atividades que precisam ser entregues: Não houve como avaliar a utilização do livro e dos demais materiais da catequese. ",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 7,
@@ -359,7 +359,7 @@ const alunos = [
 
         "observacoes": "A catequizanda demonstrou excelente assiduidade. Participa das atividades propostas com atenção e interesse, mantendo sempre uma postura respeitosa com as \n catequistas e com os colegas. Possui excelente convivência com toda a turma. Como aspecto a ser aperfeiçoado, pode se envolver mais ainda nos momentos de partilha \n oral, ou seja, se expressar com mais frequência durante os diálogos. É uma aluna muito comprometida. \n Atividades que precisam ser entregues; 15, 25 a 29, 32, 33, 103, 107 e 108. ",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 8,
@@ -408,9 +408,9 @@ const alunos = [
             "Convivência: 4/5"   
         ],
 
-        "observacoes": "A catequizanda apresentou excelente assiduidae. Participa das atividades propostas e mantém uma postura respeitosa com as catequistas e com os colegas. Demonstra \n convivência e interesse medianos. Como aspecto a ser aperfeiçoado, pode trabalhar melhor o autocontrole nos momentos de convivência, ou seja, evitar situações de \n estresse com os outros alunos. Com um pouco mais de atenção e envolvimento, seu rendimento será ainda melhor no próximo semestre. \n Atividades que precisam ser entregues: 20, 28, 32, 98 a 102, 105 e 107.",
+        "observacoes": "A catequizanda apresentou excelente assiduidade. Participa das atividades propostas e mantém uma postura respeitosa com as catequistas e com os colegas. Demonstra \n convivência e interesse medianos. Como aspecto a ser aperfeiçoado, pode trabalhar melhor o autocontrole nos momentos de convivência, ou seja, evitar situações de \n estresse com os outros alunos. Com um pouco mais de atenção e envolvimento, seu rendimento será ainda melhor no próximo semestre. \n Atividades que precisam ser entregues: 20, 28, 32, 98 a 102, 105 e 107.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 9,
@@ -459,9 +459,9 @@ const alunos = [
             "Convivência: 5/5"   
         ],
 
-        "observacoes": "O catequizando demonstra excelente respeito às catequistas e ótima convivência com toda a turma. Participa das atividades e mantém interesse mediano pelos conteúdos. \n Como aspecto a ser aperfeiçoado, pontualidade, ou seja, atentar-se ao horário de início da aulas para evitar atrasos, além da atenção e engajamento, bucando participar \n de forma mais consistente nos encontros. Com mais frequência e foco, sei aproveitamento será ainda melhor no próximo semestre. \n Atividades que precisams ser entregues: 11, 12, 18 a 22, 25 a 29, 32 a 35, 103, 107 a 109.",
+        "observacoes": "O catequizando demonstra excelente respeito às catequistas e ótima convivência com toda a turma. Participa das atividades e mantém interesse mediano pelos conteúdos. \n Como aspecto a ser aperfeiçoado, pontualidade, ou seja, atentar-se ao horário de início da aulas para evitar atrasos, além da atenção e engajamento, buscando participar \n de forma mais consistente nos encontros. Com mais frequência e foco, seu aproveitamento será ainda melhor no próximo semestre. \n Atividades que precisams ser entregues: 11, 12, 18 a 22, 25 a 29, 32 a 35, 103, 107 a 109.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 10,
@@ -512,7 +512,7 @@ const alunos = [
 
         "observacoes": "A catequizanda é muito respeitosa com as catequistas e possui boa convivência com a turma. Participa quando é solicitada e acompanha os conteúdos com interesse \n mediano. Como aspecto a ser aperfeiçoado, assiduidade, pois as 7 faltas prejudicaram a continuidade da formação, além da atenção durante a aula, evitando conversas \n desnecessárias e buscando mais tranquilidade para participar com segurança dos momentos em grupo. Com mais frequência, foco e calma, seu crescimento \n na catequese será bem maior. \n Atividades que precisam ser entregues: O livro não foi entregue para avaliação das catequistas.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 11,
@@ -563,7 +563,7 @@ const alunos = [
 
         "observacoes": "O catequizando possui excelente assiduidade e mantém uma postura respeitosa com as catequistas, além de boa convivência com a turma. Acompanha os conteúdos com \n interesse mediano. Como aspecto a ser aperfeiçoado, participação, envolvendo-se mais nas atividades propostas, além da atenção em sala, evitando brincadeiras \n desnecessárias com os irmãos e momentos de sono durante a aula. Com mais foco e engajamento, seu aproveitamento será muito melhor no próximo semestre. \n Atividades que precisam ser entregues: 15, 19, 23, 26 a 29, 33, 99, 103, 105, 107 e 108.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 12,
@@ -612,9 +612,9 @@ const alunos = [
             "Convivência: 4/5"   
         ],
 
-        "observacoes": "O catequizando é muito respeitoso com as catequistas e possui boa convivência com a turma. Por ser um aluno muito tímido, seu espaço e tempo serão sempre respeitados.\n Como aspecto a ser melhorado, participação e interesse, buscando se envolver um pouco mais nas atividades e nos diálogos, além da atençaõ em sala, evitando \n brincadeiras com os irmãos e a reflexão nas atividades do livro, pois várias respostas apresentadas não condizem com o que trabalhamos na catequese, sendo importate \n um acompanhamento mais próximo para que ele possa expressar melhor suas ideias. Com mais tranquilidade, envolvimento e diálogo, seu crescimento será muito maior. \n Atividades que precisam ser entregues: 19, 23, 25 a 29, 32 a 35, 103 e 108.",
+        "observacoes": "O catequizando é muito respeitoso com as catequistas e possui boa convivência com a turma. Por ser um aluno muito tímido, seu espaço e tempo serão sempre respeitados.\n Como aspecto a ser melhorado, participação e interesse, buscando se envolver um pouco mais nas atividades e nos diálogos, além da atenção em sala, evitando \n brincadeiras com os irmãos e a reflexão nas atividades do livro, pois várias respostas apresentadas não condizem com o que trabalhamos na catequese, sendo importante \n um acompanhamento mais próximo para que ele possa expressar melhor suas ideias. Com mais tranquilidade, envolvimento e diálogo, seu crescimento será muito maior. \n Atividades que precisam ser entregues: 19, 23, 25 a 29, 32 a 35, 103 e 108.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 13,
@@ -665,7 +665,7 @@ const alunos = [
 
         "observacoes": "O catequizando demonstrou assiduidade integral durante o semestre e mantém uma postura de respeito exemplar em relação às catequistas. Participa ativamente das \n atividades propostas, acompanha os conteúdos com interesse satisfatório e possui boa convivência com o grupo. Como aspecto a ser aperfeiçoado, manter o foco nos \n momentos de explicação do conteúdo, evitando conversas paralelas, a fim de potencializar ainda mais seu aproveitamento. Com essa adequação, seu rendimento (já \n muito positivo), tende a ser ainda maior. \n Atividades que precisam ser entregues: 12, 15, 19, 20, 25 a 29, 32 a 35, 98 a 109.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 14,
@@ -716,7 +716,7 @@ const alunos = [
 
         "observacoes": "O catequizando demonstra excelente respeito com as catequistas, grande interesse pelos conteúdos e ótima convivência com a turma. Percebe-se que possui \n muito conhecimento sobre os temas da catequese. Como aspecto a ser aperfeiçoado, participação, embora tenha muito a partilhar, ainda demonstra timidez \n em falar durante as atividades, além da atenção, evitando brincadeiras com os irmãos para aproveitar melhor cada encontro. Ao vencer a vergonha de se \n expressar, seu aproveitamento será ainda mais completo. \n Atividades que precisam ser entregues: 26 a 29, 33, 107 e 108.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 15,
@@ -767,7 +767,7 @@ const alunos = [
 
         "observacoes": "A catequizanda demonstra respeito exemplar com as catequistas, excelente interesse pelos conteúdos e ótima convivência com a turma. Participa das atividades de \n forma satisfatória. Como aspecto a ser aperfeiçoado, manter a assiduidade para acompanhar ainda melhor o processo formativo. \n OBS: O livro da Mel encontra-se com a catequista Letícia e poderá ser retirado a qualquer momento, quando for de interesse, apenas mandar mensagem no privado. \n Atividades que precisam ser entregues: 32, 103, 107 a 109.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 16,
@@ -807,7 +807,7 @@ const alunos = [
 
         "observacoes": "A catequizanda demonstrou excelente assiduidade. Mantém uma postura de muito respeito com as catequistas e possui ótima convivência com a turma. Acompanha os \n conteúdos com grande interesse e apresenta respostas corretas nos momentos de participação. Como aspecto a ser aperfeiçoado, participar um pouco mais das \n atividades, para se integrar ainda melhor ao grupo e aproveitar o seu potencial. \n Atividades que precisam ser entregues (passadas durante todo o semestre): 11 a 14, 19 a 30, 32 a 35, 98 a 102, 105 a 109.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     },
     {
         "id": 17,
@@ -856,8 +856,8 @@ const alunos = [
             "Convivência: 5/5"   
         ],
 
-        "observacoes": "O catequizando possui excelente assiduidade. Mantém postura de respeito exemplar com as catequistas, ótima convivência com a turma e demonstra grande interesse \n pelos conteúdos. Participa ativamente das atividades propostas. Como aspecto a ser aperfeiçoado, manter o foco e a assiuidade integral para aproveitar 100% \n dos encontros. \n Atividades que precisam ser entregues: 107 e 108.",
+        "observacoes": "O catequizando possui excelente assiduidade. Mantém postura de respeito exemplar com as catequistas, ótima convivência com a turma e demonstra grande interesse \n pelos conteúdos. Participa ativamente das atividades propostas. Como aspecto a ser aperfeiçoado, manter o foco e a assiduidade integral para aproveitar 100% \n dos encontros. \n Atividades que precisam ser entregues: 107 e 108.",
 
-        "ultimaAtualizacao": "27/06/2026"
+        "ultimaAtualizacao": "01/07/2026"
     }
     ];
