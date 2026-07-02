@@ -120,13 +120,13 @@ function mostrarAluno(aluno) {
 
         <p>
 
-            <strong>${aluno.tema.titulo}</strong>
+            <strong>${aluno.ultimoEncontro.titulo}</strong>
 
         </p>
 
         <small>
 
-            ${aluno.tema.data}
+            ${aluno.ultimoEncontro.data}
 
         </small>
 

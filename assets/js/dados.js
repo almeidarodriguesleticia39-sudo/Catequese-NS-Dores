@@ -1,4 +1,3 @@
-console.log("DADOS NOVOS");
 const alunos = [
     {
         "id": 1,
@@ -30,7 +29,7 @@ const alunos = [
 
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve."
         },
 
@@ -83,7 +82,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve."
         },
 
@@ -101,7 +100,7 @@ const alunos = [
             "Convivência:4/5"
         ],
 
-        "observacoes": "A catequizanda apresenta bom comportamento e respeito às catequistas e aos colegas, além de boa convivência com a turma. Participa das atividades propostas e \n demosntra interesse mediano pelos conteúdos. Como aspecto a ser aperfeiçoado, precisa melhorar a atenção durante os encontros, evitando o uso excessivo de \n tablet, ou seja, deixar o celular/tablet de lado no momento da catequese para se concentrar melhor além de atentar-se ao horário de início das aulas. Quanto \n à frequência, as 7 ausências prejudicaram um pouco o aproveitamento. Com maior assiduidade e foco, terá um rendimento ainda melhor no próximo semestre. \n Atividades que precisam ser entregues:O livro não foi entregues para avaliação das catequistas.", 
+        "observacoes": "A catequizanda apresenta bom comportamento e respeito às catequistas e aos colegas, além de boa convivência com a turma. Participa das atividades propostas e \n demosntra interesse mediano pelos conteúdos. Como aspecto a ser aperfeiçoado, precisa melhorar a atenção durante os encontros, evitando o uso excessivo de \n tablet, ou seja, deixar o celular/tablet de lado no momento da catequese para se concentrar melhor além de atentar-se ao horário de início das aulas. Quanto \n à frequência, as 7 ausências prejudicaram um pouco o aproveitamento. Com maior assiduidade e foco, terá um rendimento ainda melhor no próximo semestre. \n Atividades que precisam ser entregues:O livro não foi entregue para avaliação das catequistas.", 
 
         "ultimaAtualizacao": "27/06/2026"
     },
@@ -135,7 +134,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve."
         },
 
@@ -186,7 +185,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -237,7 +236,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": false},
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -288,7 +287,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": false}
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -339,7 +338,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -391,7 +390,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -442,7 +441,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -493,7 +492,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -544,7 +543,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -595,7 +594,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -646,7 +645,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -697,7 +696,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -748,7 +747,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": false}
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -788,7 +787,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": true }
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -839,7 +838,7 @@ const alunos = [
             { "data": "27/06/2026", "presente": false}
         ],
 
-        "tema": {
+        "ultimoEncontro": {
             "titulo": "Em breve"
         },
 
@@ -861,4 +860,4 @@ const alunos = [
 
         "ultimaAtualizacao": "27/06/2026"
     }
-    ]; 
+    ];
