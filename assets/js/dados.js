@@ -1,3 +1,4 @@
+console.log("DADOS NOVOS");
 const alunos = [
     {
         "id": 1,
@@ -31,18 +32,14 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve."
-            //data: "29/03/2026"
         },
 
         "avisos": [
             {
                 "titulo": "Recesso",
                 "descricao": "Voltaremos com as aulas no dia 01/08."
-            },
-           //{
-                //titulo: "Missa",
-                //descricao: "Participar da missa de domingo."
-            //}
+            }
+           
         ],
 
         "comportamento": [
@@ -87,8 +84,7 @@ const alunos = [
         ],
 
         "tema": {
-            "titulo": "Em breve.",
-            //data: "29/03/2026"
+            "titulo": "Em breve."
         },
 
         "avisos": [
@@ -192,7 +188,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -244,7 +239,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -296,7 +290,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -348,7 +341,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -401,7 +393,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -453,7 +444,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -505,7 +495,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -557,7 +546,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -609,7 +597,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -661,7 +648,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -713,7 +699,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -765,7 +750,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -806,7 +790,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
@@ -858,7 +841,6 @@ const alunos = [
 
         "tema": {
             "titulo": "Em breve"
-            //data: "29/03/2026"
         },
 
         "avisos": [
