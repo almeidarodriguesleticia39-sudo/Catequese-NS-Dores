@@ -49,7 +49,7 @@ const alunos = [
             "Convivência: 0/5"
         ],
 
-        "observacoes": "O catequizando apresentou baixa assiduidade neste semestre. Nos momentos que esteve presente, observou-se pouca participação nas atividades e não foi possível avaliar \n aspectos como respeito e convivência. Como aspecto a ser aperfeiçoado, beneficiar-se-ia de maior engajamento e disciplina durante os encontros, ou seja, participar mais \n e manter o interesse indo às aulas. Para um melhor aproveitamento na formação para a fé, é essencial a regularização da frequência e o acompanhamento da família no \n próximo semestre. \n Atividades: Não houve como avaliar a utilização do livro e dos demais materiais da catequese.",
+        "observacoes": "",
 
         "ultimaAtualizacao": "27/06/2026"
     },
